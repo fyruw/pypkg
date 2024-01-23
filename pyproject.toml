@@ -1,0 +1,12 @@
+[project]
+name = pypkg
+version = "2024.22.1"
+description = "A small example package"
+readme = "README"
+
+[project.urls]
+Homepage = "https://github.com/fyruw/pypkg"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
