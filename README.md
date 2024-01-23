@@ -2,8 +2,8 @@ short description here...
 
 `pip install pypkg`
 
-- [Documentation](README.md#Documentation)
-- [Changelog](README.md#Changelog)
+- [Documentation](#Documentation)
+- [Changelog](#Changelog)
 
 ### Examples
 ```python
