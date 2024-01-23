@@ -1,13 +1,39 @@
 short description here...
 
+`pip install pypkg`
+
 - [Documentation](README.md#Documentation)
 - [Changelog](README.md#Changelog)
-- [test](github.com)
+
+### Examples
+```python
+#a
+....
+
+#b
+....
+
+#c
+...
+```
 
 ### Documentation
-aaaa
-bbbb
+- a
+- b
+- c
+- d
+- e
+- f
+- g
+- h
+- i
 
 ### Changelog
-ccccccc
-ddddd
+- a
+- b
+- c
+- d
+
+-e
+-f
+-g
