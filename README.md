@@ -7,14 +7,10 @@ short description here...
 
 ### Examples
 ```python
-#a
-....
+>>> from pypkg import func
+>>> func('abc') # ...
 
-#b
-....
-
-#c
-...
+>>> from pathlib import Path
 ```
 
 ### Documentation
