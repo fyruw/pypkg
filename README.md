@@ -32,9 +32,9 @@ short description here...
 - a
 - a
 
-#### abc
-#### abcd
-#### abcde
+#### pypkg.__all__
+#### pypkg.abcd
+#### pypkg.abcde
 
 - a
 - b
