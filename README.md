@@ -15,9 +15,9 @@ short description here...
 
 ### Documentation
 
-- [abc](#abc)
-- [abcd](#abcd)
-- [abcde](#abcde)
+- [pypkg.abc](#abc)
+- [pypkg.abcd](#pypkg.abcd)
+- [pypkg.abcde](#pypkg.abcde)
 
 - a
 - a
